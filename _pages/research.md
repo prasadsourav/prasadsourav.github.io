@@ -16,9 +16,9 @@ with Varun Jindal (IIM Bangalore) and Arun Upadhyay (Florida International Unive
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6499859)  
 [Add abstract here.]
 
-**Beyond Fundamentals: How Investor Sentiment Shapes Cross-Border Bond Market Connectedness**  
-*Revision submitted, International Review of Financial Analysis*  
-[Add abstract here.]
+/**Beyond Fundamentals: How Investor Sentiment Shapes Cross-Border Bond Market Connectedness**  
+/*Revision submitted, International Review of Financial Analysis*  
+/[Add abstract here.]
 
 **Returns and Sentiment Connectedness: Evidence from the Global Equity Markets**  
 with [Full name] Mohapatra and [Full name] Rahman  
